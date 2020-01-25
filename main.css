@@ -1,0 +1,27 @@
+#profile-background{
+    background-color: grey;
+    height: 40px;
+    text-align: center;
+}
+#author-background{
+    background-color:grey;
+    height:40px;
+    
+}
+#website-reference{
+    text-align: center;
+}
+
+#lastime-visit{
+
+     color: greenyellow;
+    text-align: center;
+}
+
+#photo > img{
+    height:100px;
+    position:absolute;
+    right: 15px;
+    top:55px;
+    
+}
